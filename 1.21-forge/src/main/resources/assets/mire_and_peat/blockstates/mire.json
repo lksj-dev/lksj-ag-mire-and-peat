@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": [
+      { "model": "mire_and_peat:block/mire" },
+      { "model": "mire_and_peat:block/mire", "y": 90 },
+      { "model": "mire_and_peat:block/mire", "y": 180 },
+      { "model": "mire_and_peat:block/mire", "y": 270 }
+    ],
+    "age=1": [
+      { "model": "mire_and_peat:block/mire" },
+      { "model": "mire_and_peat:block/mire", "y": 90 },
+      { "model": "mire_and_peat:block/mire", "y": 180 },
+      { "model": "mire_and_peat:block/mire", "y": 270 }
+    ],
+    "age=2": [
+      { "model": "mire_and_peat:block/mire" },
+      { "model": "mire_and_peat:block/mire", "y": 90 },
+      { "model": "mire_and_peat:block/mire", "y": 180 },
+      { "model": "mire_and_peat:block/mire", "y": 270 }
+    ],
+    "age=3": [
+      { "model": "mire_and_peat:block/mature_mire" },
+      { "model": "mire_and_peat:block/mature_mire", "y": 90 },
+      { "model": "mire_and_peat:block/mature_mire", "y": 180 },
+      { "model": "mire_and_peat:block/mature_mire", "y": 270 }
+    ]
+  }
+}

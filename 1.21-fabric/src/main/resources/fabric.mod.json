@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "mire_and_peat",
+  "version": "${version}",
+  "name": "Mire & Peat",
+  "description": "Farm peat from mire!",
+  "authors": [ "3TUSK" ],
+  "contact": {},
+  "license": "CC0-1.0",
+  "entrypoints": {
+    "main": [ "dev.lksj.ag.mireandpeat.fabric.MireAndPeatMod" ]
+  },
+  "depends": {
+    "minecraft": [ "1.21.*" ]
+  }
+}

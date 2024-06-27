@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="CC0-1.0"
+issueTrackerURL="https://example.invalid/"
+
+[[mods]]
+modId="mire_and_peat"
+version="${file.jarVersion}"
+displayName="Mire & Peat"
+description="Farm peat from mire!"
+authors="3TUSK"
+credits=""
+
+[[dependencies.lighting_decor]]
+modId="minecraft"
+type="required"
+versionRange="[1.21,1.22)"

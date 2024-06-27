@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "DMD",
+    "MWM",
+    "DMD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:dirt"
+    },
+    "M": {
+      "item": "minecraft:moss_block"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "id": "mire_and_peat:mire",
+    "count": 4
+  }
+}

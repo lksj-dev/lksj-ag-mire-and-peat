@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "mire_and_peat:block/peat_stage0_top",
+    "side": "mire_and_peat:block/peat_stage0"
+  }
+}
